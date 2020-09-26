@@ -10,6 +10,10 @@
 npm install --save react-element-size-and-position
 ```
 
+<div align="center">
+    <img src="./react-element-size-and-position.gif" width="550">
+</div>
+
 ## Usage
 
 ```jsx
