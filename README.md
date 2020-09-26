@@ -19,7 +19,6 @@ import { useElementProperties } from 'react-element-size-and-position'
 
 const App = () => {
   let elementProperties = useElementProperties('alithecodeguy')
-  console.log(elementProperties)
   return (
     <div
       style={{
