@@ -1,7 +1,6 @@
 import React from 'react'
 
 import { useElementProperties } from 'react-element-size-and-position'
-import 'react-element-size-and-position/dist/index.css'
 
 const App = () => {
   let elementProperties = useElementProperties('alithecodeguy')
