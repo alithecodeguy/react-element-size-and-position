@@ -1,7 +1,7 @@
 {
   "name": "react-element-size-and-position",
   "version": "1.0.0",
-  "description": "get elements and components size and position",
+  "description": "get elements and components size and position with react custome hook",
   "author": "alithecodeguy",
   "license": "MIT",
   "repository": "alithecodeguy/react-element-size-and-position",
